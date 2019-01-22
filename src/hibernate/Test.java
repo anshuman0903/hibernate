@@ -8,6 +8,7 @@ String s="hibernate";
 for(int i=0;i<=10;i++){
 	System.out.println(i);
 	System.out.println(s.toUpperCase());
+	System.out.println();
 }
 	}
 
